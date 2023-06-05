@@ -1,0 +1,22 @@
+# ninja log v5
+2	33	0	E:/MQTT_GUI/MQTT/cmake-build-debug/CMakeFiles/cmake.verify_globs	6edfb4193af63579
+1	456	7076750970506884	MQTT_autogen/timestamp	b5c82b9079048169
+462	3240	7076750998701644	CMakeFiles/MQTT.dir/mainwindow.cpp.obj	35c16e960eb3e684
+1	456	7076750970506884	MQTT_autogen/mocs_compilation.cpp	b5c82b9079048169
+456	2894	7076750995287544	CMakeFiles/MQTT.dir/MQTT_autogen/mocs_compilation.cpp.obj	3bddf90f17251840
+1	456	7076750970506884	E:/MQTT_GUI/MQTT/cmake-build-debug/MQTT_autogen/timestamp	b5c82b9079048169
+1	456	7076750970506884	E:/MQTT_GUI/MQTT/cmake-build-debug/MQTT_autogen/mocs_compilation.cpp	b5c82b9079048169
+459	2924	7076750995590241	CMakeFiles/MQTT.dir/main.cpp.obj	8ecfe45c87962d1c
+3241	3416	7076751000476734	MQTT.exe	9c55d256f3e7f05a
+17	63	0	E:/MQTT_Tools/cmake-build-debug/CMakeFiles/cmake.verify_globs	e9750f4783e2c71a
+8	1781	7076761864259069	MQTT_autogen/timestamp	1005b21c1f520ed6
+8	1781	7076761864259069	MQTT_autogen/mocs_compilation.cpp	1005b21c1f520ed6
+8	1781	7076761864259069	E:/MQTT_Tools/cmake-build-debug/MQTT_autogen/timestamp	1005b21c1f520ed6
+8	1781	7076761864259069	E:/MQTT_Tools/cmake-build-debug/MQTT_autogen/mocs_compilation.cpp	1005b21c1f520ed6
+1781	3653	7076761883384248	CMakeFiles/MQTT.dir/MQTT_autogen/mocs_compilation.cpp.obj	e2c7ffb052cc14e8
+1784	3673	7076761883584267	CMakeFiles/MQTT.dir/main.cpp.obj	3a957ea451bc5b81
+1788	4027	7076761887118203	CMakeFiles/MQTT.dir/mainwindow.cpp.obj	3124fc0c0989ccf7
+4027	4317	7076761890003359	MQTT.exe	900554d1b2ade5cd
+3	38	0	E:/MQTT_Tools/cmake-build-debug/CMakeFiles/cmake.verify_globs	e9750f4783e2c71a
+2	34	0	E:/MQTT_Tools/cmake-build-debug/CMakeFiles/cmake.verify_globs	e9750f4783e2c71a
+3	34	0	E:/MQTT_Tools/cmake-build-debug/CMakeFiles/cmake.verify_globs	e9750f4783e2c71a
