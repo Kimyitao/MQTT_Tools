@@ -44,7 +44,7 @@ set(PROJECT_SOURCES
 
         ${TS_FILES}
 
-)
+        handlers.cpp)
 
 
 

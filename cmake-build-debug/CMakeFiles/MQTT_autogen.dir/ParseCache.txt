@@ -396,6 +396,8 @@ E:/MQTT_Tools/mainwindow.h
  mdp:E:/MQTT_Tools/Mqtt_lib/src/MQTTProperties.h
  mdp:E:/MQTT_Tools/Mqtt_lib/src/MQTTReasonCodes.h
  mdp:E:/MQTT_Tools/Mqtt_lib/src/MQTTSubscribeOpts.h
-E:/MQTT_Tools/mainwindow.cpp
+E:/MQTT_Tools/handlers.cpp
  uic:./ui_mainwindow.h
 E:/MQTT_Tools/main.cpp
+E:/MQTT_Tools/mainwindow.cpp
+ uic:./ui_mainwindow.h

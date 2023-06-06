@@ -74,6 +74,7 @@ set(OLD_GLOB
   "E:/MQTT_Tools/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "E:/MQTT_Tools/cmake-build-debug/MQTT_autogen/EWIEGA46WW/moc_mainwindow.cpp"
   "E:/MQTT_Tools/cmake-build-debug/MQTT_autogen/mocs_compilation.cpp"
+  "E:/MQTT_Tools/handlers.cpp"
   "E:/MQTT_Tools/main.cpp"
   "E:/MQTT_Tools/mainwindow.cpp"
   )
